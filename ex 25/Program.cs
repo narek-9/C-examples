@@ -8,4 +8,4 @@ for (int i = 0; i <= A; i++)
 {
     count += i;
 }
-Console.WriteLine($"Сумма чисел от 1 до A = {count}");
+Console.WriteLine($"Сумма чисел от 1 до {A} = {count}");
